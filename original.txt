@@ -1,2 +1,2 @@
 Mensaje original de saludo: Esta vez el saludo es desde la rama new-feature.
-Estoy haciendo modificaciones al margen de la rama original.
+Estoy haciendo modificaciones al margen de la rama original. En este momento es recomendable dejar anotaciones extra.
